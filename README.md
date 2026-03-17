@@ -36,7 +36,7 @@
 ### 2 [Project_hotel-bellboy-robot](https://github.com/ekrud8149-sudo/project_hotel-bellboy-robot)
 - ros2기반 호텔 짐 운반 벨보이 로봇
 
-### 3 [Project_Wallpad Control Platform](https://github.com/ekrud8149-sudo/project_wallpad)
+### 3 [Project_Wallpad Control Platform](https://github.com/ekrud8149-sudo/Project_wallpad)
 - 통합 설비 관리 터치 월패드 시스템
 
 ### 4 [Project_Smart-factory](https://github.com/ekrud8149-sudo/project_Smart-Factory)
