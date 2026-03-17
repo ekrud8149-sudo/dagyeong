@@ -31,15 +31,15 @@
 
 ## My Projects 💻  
 
-### 1
+### 1 [Project_Krorean-Sign-Language-Translator](https://github.com/ekrud8149-sudo/project_Korean-Sign-Language-Translator)
 - 한글 모아쓰기 기반의 한국어 수어 번역기
-### 2
+### 2 [Project_hotel-bellboy-robot](https://github.com/ekrud8149-sudo/project_hotel-bellboy-robot)
 - ros2기반 호텔 짐 운반 벨보이 로봇
 
-### 3
+### 3 [Project_Wallpad Control Platform](https://github.com/ekrud8149-sudo/project_wallpad)
 - 통합 설비 관리 터치 월패드 시스템
 
-### 4
+### 4 [Project_Smart-factory](https://github.com/ekrud8149-sudo/project_Smart-Factory)
 - 스마트 팩토리 물류자동화
 
 
