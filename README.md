@@ -16,8 +16,16 @@
 
 
 
-## My Tech Stack 📚  
-### ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ **기술 스택**
+
+| **분류**       | **기술**                                                                 |
+|-----------------|-------------------------------------------------------------------------|
+| **언어**       | ![C](https://img.shields.io/badge/-C-blue) ![C++](https://img.shields.io/badge/-C++-blue) ![Python](https://img.shields.io/badge/-Python-yellow)  |
+| **운영체제**   | ![Linux](https://img.shields.io/badge/-Linux-orange) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-red) |
+| **AP 및 MCU**  | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-green) ![Jetson Nano](https://img.shields.io/badge/-Jetson_Nano-green) ![ATmega128A](https://img.shields.io/badge/-ATmega128A-green) ![Arduino](https://img.shields.io/badge/-Arduino-blue) ![STM32](https://img.shields.io/badge/-STM32-blue) |
+| **IDE**        | ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple) ![VSCode](https://img.shields.io/badge/-VSCode-blue) ![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-green) ![Spyder](https://img.shields.io/badge/-Spyder-red) ![STM32CubeIDE](https://img.shields.io/badge/-CubeIDE-blue) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange) ![Octave](https://img.shields.io/badge/-Octave-lightblue) |
+| **DB**         | ![MariaDB](https://img.shields.io/badge/-MariaDB-blue) ![MySQL](https://img.shields.io/badge/-MySQL-blue) |
+| **기타**       | ![OpenCV](https://img.shields.io/badge/-OpenCV-lightblue) ![Qt](https://img.shields.io/badge/-Qt-green) ![ROS](https://img.shields.io/badge/-ROS-black) |
 
 ---
 
